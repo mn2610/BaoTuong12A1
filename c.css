@@ -282,8 +282,13 @@ header .slogan{
 
 input,
 textarea{
-   padding: 6px 10px;
-    height: 36px; 
+    width: 100%;              
+    max-width: 100%;
+    padding: 8px 10px;
+    font-size: 14px;
+    line-height: 1.4;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 6px;
 }
-
 
