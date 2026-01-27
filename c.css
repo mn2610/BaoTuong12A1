@@ -275,3 +275,8 @@ header .slogan{
     z-index: 2;
 }
 
+.form-box{
+    display: flex;
+    flex-direction: column; 
+}
+
